@@ -21,7 +21,7 @@ Consumer: [ether-lineage-20.0-volte](https://github.com/TheDBP/ether-lineage-20.
 
 | repo | branch | why |
 |---|---|---|
-| `android_kernel_nextbit_msm8992` | `lineage-18.1` | the only kernel for this SoC that boots a modern userspace (3.10, last touched 2024-02). GPL-2.0: this branch is also the corresponding-source offer for every `ether-lineage` release |
+| `android_kernel_nextbit_msm8992` | `lineage-18.1` | the only kernel for this SoC that boots a modern userspace (3.10, last touched 2024-02). GPL-2.0: the corresponding-source offer for released builds is the kernel fork's own branch, [android_kernel_nextbit_msm8992](https://github.com/TheDBP/android_kernel_nextbit_msm8992/tree/lineage-20.0) -- this mirror is the unmodified upstream it is based on |
 | `android_device_nextbit_ether` | `lineage-18.1` | LineageOS's last official device tree (2021-08); the 19.1 tree on `main` derives from it |
 | `android_hardware_qcom_audio` | `lineage-18.1-caf-msm8994` | msm8994-family CAF HALs, frozen at 18.1; newer branches dropped msm8992 |
 | `android_hardware_qcom_display` | `lineage-18.1-caf-msm8994` | same |
