@@ -12,7 +12,7 @@ Apache-2.0 / GPL-2.0 source only. **No proprietary blobs**: `TheMuppets/propriet
 is deliberately not here. Take it from TheMuppets (`lineage-18.1`), or run the device tree's
 `extract-files.sh` against the stock `Robin_Nougat_108` firmware.
 
-Consumer: [ether-lineage](https://github.com/TheDBP/ether-lineage) (LineageOS 20.0 for the Robin, released; 21 in progress).
+Consumer: [ether-lineage-20.0-volte](https://github.com/TheDBP/ether-lineage-20.0-volte) (LineageOS 20.0 for the Robin, released; 21 in progress).
 
 ## Branches
 
